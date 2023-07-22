@@ -7,7 +7,6 @@ import java.util.Set;
 
 @Entity
 @Table(name="product_category")
-// @Data -- known bug, so use getter and setter
 @Getter
 @Setter
 public class ProductCategory {

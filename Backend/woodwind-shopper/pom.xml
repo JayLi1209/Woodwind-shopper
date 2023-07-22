@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ecommerce-project</artifactId>
+	<artifactId>woodwind-shopper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ecommerce-project</name>
 	<description>Spring Boot Ecommerce Project</description>
